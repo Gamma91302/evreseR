@@ -133,6 +133,7 @@
     back:
     - PlushieSpaceLizard
 
+# Reserve
 - type: loadout
   id: PlushieMoth
   storage:
