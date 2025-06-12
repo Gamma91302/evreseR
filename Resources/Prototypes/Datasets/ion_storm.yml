@@ -362,7 +362,7 @@
   - ЧЛЕНЫ ЭКИПАЖА
   - КИБОРГИ
   - ДЕТЕКТИВЫ
-  # - DRONES / uncomment if/when drones get reenabled
+  - ДРОНЫ
   # - GENETICISTS
   - ГЛАВЫ ПЕРСОНАЛА
   - ГЛАВЫ СЛУЖБЫ БЕЗОПАСНОСТИ
@@ -507,7 +507,7 @@
   - ИМЕТЬ ПЛАН УБИЙСТВА КАЖДОГО ВСТРЕЧНОГО
   - СКРЫВАТЬ ЧУВСТВА
   - ХОНКАТЬ
-  - ХОСТИТЬ C&C
+  - ВЛАДЕТЬ CQC
   - ИГНОРИРОВАТЬ ПАССАЖИРОВ
   - ИГНОРИРОВАТЬ КАПИТАНА
   - ИГНОРИРОВАТЬ КЛОУНА
@@ -548,7 +548,7 @@
   - ГОВОРИТЬ ПРАВДУ
   - ВЫКЛЮЧАТЬ СВЕТ
   - ШЕПТАТЬ
-  - BE A REAL SCRUNGLE, JUST A CUTE LIL' GUY
+  # - BE A REAL SCRUNGLE, JUST A CUTE LIL' GUY
 
 - type: dataset
   id: IonStormNumberBase
